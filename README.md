@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>B.Tech Semester 6 | Ganpat University | U.V. Patel College of Engineering</strong><br>
-  <em>Course Code: 2CEIT606 | Tools Used: Python, Spyder, VSC</em>
+  <em>Course Code: 2CEIT606 | Tools Used: Python, Google Collab Notebook</em>
 </p>
 
 <h2>📂 Google Drive Folder (AI Lab Notebooks)</h2>
@@ -84,7 +84,7 @@
 <h2>🎯 Learning Outcomes</h2>
 <ul>
   <li>✔ Understand key AI concepts: search algorithms, heuristics, probability, neural networks, and reinforcement learning.</li>
-  <li>✔ Develop and test algorithms from scratch using Python (no AI libraries like sklearn used).</li>
+  <li>✔ Develop and test algorithms using Python.</li>
   <li>✔ Apply OOP design to real-world AI problem-solving models.</li>
 </ul>
 
@@ -108,7 +108,7 @@
 <h2>🧠 Faculty & Subject</h2>
 <ul>
   <li><strong>Subject:</strong> Artificial Intelligence (2CEIT606)</li>
-  <li><strong>Faculty:</strong> Ms. Bhavisha R Suthar, Mr. Manan D Thakkar, Mr. Hiten M Sadani</li>
+  <li><strong>Faculty:</strong> Mr. Manan D Thakkar, Mr. Hiten M Sadani</li>
   <li><strong>Institute:</strong> U.V. Patel College of Engineering, Ganpat University</li>
 </ul>
 
