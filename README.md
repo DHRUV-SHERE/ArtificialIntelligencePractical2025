@@ -1,5 +1,3 @@
-<h1><a href="https://drive.google.com/drive/folders/1jwGd53gacYKk19xfJ7mqDhezu87SW1Yd?usp=sharing">Google Collab</a></h1>
-<h2>here is a link of Google COllab where i have written all this code you can access it and check it for demo purpose.</h2>
 
 <h1 align="center">🤖 Artificial Intelligence Lab Experiments</h1>
 
@@ -7,6 +5,16 @@
   <strong>B.Tech Semester 6 | Ganpat University | U.V. Patel College of Engineering</strong><br>
   <em>Course Code: 2CEIT606 | Tools Used: Python, Spyder, VSC</em>
 </p>
+
+<h2>🚀 Quick Launch (Google Colab)</h2>
+<p>Run selected notebooks instantly on Colab:</p>
+<ul>
+  <li>
+    <a href="[https://colab.research.google.com/github/DHRUV-SHERE/AI_ML_Lab_Experiments/blob/main/Artificial_Intelligence_Sem6/03_EightPuzzle_AStar.ipynb](https://drive.google.com/drive/folders/1jwGd53gacYKk19xfJ7mqDhezu87SW1Yd?usp=sharing)" target="_blank">
+      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    </a>
+  </li>
+</ul>
 
 <hr>
 
