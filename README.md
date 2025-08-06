@@ -6,15 +6,15 @@
   <em>Course Code: 2CEIT606 | Tools Used: Python, Spyder, VSC</em>
 </p>
 
-<h2>🚀 Quick Launch (Google Colab)</h2>
-<p>Run selected notebooks instantly on Colab:</p>
-<ul>
-  <li>
-    <a href="[https://colab.research.google.com/github/DHRUV-SHERE/AI_ML_Lab_Experiments/blob/main/Artificial_Intelligence_Sem6/03_EightPuzzle_AStar.ipynb](https://drive.google.com/drive/folders/1jwGd53gacYKk19xfJ7mqDhezu87SW1Yd?usp=sharing)" target="_blank">
-      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-    </a>
-  </li>
-</ul>
+<h2>🚀 Open in Google Colab (via Drive)</h2>
+<p>You can explore all the practicals using Google Colab from the Drive folder:</p>
+
+<p>
+  <a href="[https://colab.research.google.com/drive/1abcXYZ...](https://colab.research.google.com/github/DHRUV-SHERE/AI_ML_Lab_Experiments/blob/main/Artificial_Intelligence_Sem6/03_EightPuzzle_AStar.ipynb](https://drive.google.com/drive/folders/1jwGd53gacYKk19xfJ7mqDhezu87SW1Yd?usp=sharing))" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
+    View Full AI Lab Notebook
+  </a>
+</p>
 
 <hr>
 
